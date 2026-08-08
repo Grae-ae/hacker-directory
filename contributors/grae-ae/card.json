@@ -1,11 +1,10 @@
 {
   "name": "Ezaura Grace",
-  "role": "Software Engineering Student, Car enthusiast - Noob Open Source Contributor",
-  "university": "Kirinyaga university",
+  "role": "Software Engineering Student, Cyber security enthusiast, Noob Open Source Contributor",
   "github": "grae-ae",
   "bio": "I like cars, Software and novels",
-  "tags": ["Python", "Typescript", "Data Science"],
+  "tags": ["Python", "Typescript", "javascript", "Software Engineering","C"],
   "links": {
-    "website": "https://talenmud.github.io"
+    "github": "https://github.com/grae-ae"
   }
 }
